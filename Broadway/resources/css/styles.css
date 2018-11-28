@@ -35,6 +35,20 @@ section{
     font-size : 21;
     font-weight: normal;
     color : black ;
+}
 
+.header--sub-header-white{
+    font-size : 21;
+    color : white;
+}
 
 /*LINKS*/
+
+
+/*FOOTERS*/
+.footpage{
+    text-align: left;
+    font-size : 12;
+    color : grey;
+
+}
